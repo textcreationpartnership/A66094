@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discour[se] concerning the ceremon[y] of laying the hand on the Bible in swearing. By Samuel Willard, teacher of a church at Boston in New-England.</title>
+            <author>Willard, Samuel, 1640-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66094</idno>
+            <idno type="STC">Wing W2268</idno>
+            <idno type="STC">ESTC R222777</idno>
+            <idno type="EEBO-CITATION">99833903</idno>
+            <idno type="PROQUEST">99833903</idno>
+            <idno type="VID">38381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1786:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discour[se] concerning the ceremon[y] of laying the hand on the Bible in swearing. By Samuel Willard, teacher of a church at Boston in New-England.</title>
+                  <author>Willard, Samuel, 1640-1707.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy stained; title page torn with loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38381:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>A BRIEF DISCOUR Concerning that CEREMO<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap> OF Laying the Hand ON THE BIBLE IN SWEARING.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL WILLARD,</hi> Teacher of a Church at <hi>Boſton</hi> in <hi>New-England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. A.</hi> in the Year 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38381:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb facs="tcp:38381:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>TO THE READER.</head>
+            <p>THat many good and very learned Men have doubt<g ref="char:EOLhyphen"/>ed the lawfulneſs of Kiſſing or Touching the Book in taking a ſolemn Oath, cannot be deny'd; thoſe great and famous Divines, <hi>Rivet, Pareus, Voetius,</hi> have all written againſt it; and that worthy Confeſſor and Mar<g ref="char:EOLhyphen"/>tyr, Mr. <hi>William Thorp,</hi> did refuſe to comply with the mentioned <hi>Mode</hi> of Swearing; and he ſaith, that <hi>Chryſoſtom</hi> was againſt the <hi>Book-Oath,</hi> as he ſtyles it; he thus argues, <q>If I touch the Book, the meaning of that Ceremony is nothing elſe but that I ſwear by it, when as it is not lawful to Swear by any Creature,</q> 
+               <hi>vid.</hi> Fox<hi>'s Martyrol.</hi> Vol. <hi>1.</hi> p. 705, <hi>&amp;c.</hi> In <hi>Scotland</hi> and other Reformed Churches abroad, that Ceremony is not uſed; and in our own Courts of Admiralty, another Form of Swearing is frequently practiſed. That ſome here in <hi>England</hi> forty years ago were ſcrupulous about this matter, we may be aſ<g ref="char:EOLhyphen"/>ſured, in that the Parliament in the Year <hi>1649.</hi> in the Oath which they enjoyned on Mayors and other Magiſtrates, inſerted a Proviſo as to the Mode in Swearing, that ſo doubting Conſciences might not be enſnared, <hi>vid.</hi> Scobel<hi>'s Collections,</hi> chap. <hi>51.</hi> It is well known that thoſe famous Divines, Dr. <hi>Thomas Goodwin,</hi> Mr. <hi>Philip Nye,</hi> and
+<pb facs="tcp:38381:3"/>
+               <!-- PDF PAGE 15 -->Mr. <hi>Jeremiah Burroughs,</hi> did judge the impleaded Rite to be unwarrantable by the VVord of God; and why ſhould it be impoſed, when thereby the King may be deprived of the ſervice of many good Subjects, who have perhaps weak but tender Conſciences? But as for Papiſts, they ſay, that to ſwear on a <hi>Proteſtant Bible</hi> is no more than ſwearing on <hi>Aeſop</hi>'s <hi>Fables.</hi> It ſeems alſo to be of weighty Con<g ref="char:EOLhyphen"/>ſideration, that <hi>Kiſſing</hi> in a religious way is a geſture of Adoration: Hence the <hi>Iſraelites</hi> kiſſed the Calves of <hi>Dan</hi> and <hi>Bethel,</hi> Hoſ. <hi>13.2.</hi> The <hi>Gentiles</hi> (and after them the <hi>Papiſts</hi>) were wont to kiſs their Images, as a ſignifi<g ref="char:EOLhyphen"/>cation that they did VVorſhip them. But though we ought to reverence the bleſſed <hi>Bible</hi> above all other Books, yet we may not VVorſhip it, but the Author of it only. <hi>Atha<g ref="char:EOLhyphen"/>naſius</hi> of old would not uſe any other Rite in Swearing beſides that of lifting up the Hand to Heaven.</p>
+            <p>The Reader (I hope) will find ſatisfaction in that brief and nervous Diſcourſe which is emitted herewith, and was written by a judicious and worthy Hand. It is likewiſe to be hoped that this Diſputation may excite others to enquire into, and further clear the controverted Queſtion, which is the thing deſigned in this publication.</p>
+            <closer>
+               <signed>M. I.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb n="1" facs="tcp:38381:3"/>
+            <!-- PDF PAGE 15 -->
+            <head>A Brief ESSAY To the Reſolution of that QUESTION, <hi>VIZ Whether the</hi> Engliſh <hi>Cuſtom of Laying the Hand upon the BIBLE in Swearing be Lawful?</hi>
+            </head>
+            <p>IT had been altogether needleſs to have engaged in this Controverſie at this time, had not the ſtreſs which is laid upon this Ceremony, and the apparent evils ariſing from ſuch an Impoſition enforced it; might thoſe who make Conſcientious Scruples about it have been permitted to uſe their Chriſtian Liberty, (ſuch as I am fully perſwaded is granted them in his Majeſties Gracious Declaration, and was for ſome while in Practice among us) I am of the mind that there would not have been ſo much enquiry made about it, as Men by this occaſion think themſelves concerned to
+<pb n="2" facs="tcp:38381:4"/>
+               <!-- PDF PAGE 16 -->make: but the apprehenſions which have been cauſed by what Entertainment the refuſing of this Rite hath met withal, have made it requiſite that Mens Conſciences be rightly informed in this Article.</p>
+            <p>I am not ignorant that a Man may be ſuperſtitious in needleſs ſcrupuloſities, as well as in uſing of unlawful Cere<g ref="char:EOLhyphen"/>monies; but then it will be requiſite to make a cloſe enqui<g ref="char:EOLhyphen"/>ry into the matter, Whether the ſuſpecting of the lawful<g ref="char:EOLhyphen"/>neſs of ſo Swearing be ſuch ſuperſtition? and when ſome Men do make ſo much of it, it will put thinking Perſons upon a more accurate Conſideration about the thing. If there be indeed nothing in it, it is pity that wiſe and ho<g ref="char:EOLhyphen"/>neſt Men ſhould trouble others, or expoſe themſelves, their Reputation and Eſtate by refuſing it. And if it be a thing forbidden by God, I am ſure tender Conſciences will be deeply concerned to ſave their inward Peace, whatſoever it may coſt them: For the ſatisfaction therefore of ſuch, and at the earneſt deſire of ſundry of them, I have eſſayed to ſearch after the mind of God in this Caſe; in the ſolution whereof, I only deſign the reducing of it to the known and approved Maxims of Non-conformiſts, it being in compli<g ref="char:EOLhyphen"/>ance with the requeſt of ſome ſuch Men that I am thus engaged; leſs therefore will need to be ſaid to it than would otherwiſe be requiſite: For there are divers <hi>Poſtulata,</hi> or Preliminary Concluſions, which belong to the ſolution, which will be taken for granted by all that are any whit grounded in the Principles of Non-conformity, and require only to be named, ſince all their Writings on this ſubject furniſh us with convincing evidence of the truth of them; and they are ſuch as theſe,</p>
+            <p n="1">1. That all Religious Worſhip not Commanded by God, is forbidden.</p>
+            <p n="2">2. That all Symbolical Ceremonies enjoyned Men in Re<g ref="char:EOLhyphen"/>ligious Worſhip, are made Parts of Worſhip, and conſequent<g ref="char:EOLhyphen"/>ly, if not Commanded, forbidden.</p>
+            <p n="3">
+               <pb n="3" facs="tcp:38381:4"/>
+               <!-- PDF PAGE 16 -->
+3. That all ſuch things impoſed upon Men, are an in<g ref="char:EOLhyphen"/>fringement of their Liberty of Conſcience, and an expoſing them to ſin.</p>
+            <p n="4">4. That things indifferent are to be avoided, in Caſe of Scandal ariſing by the uſe of them, and it is a ſin not to avoid them.</p>
+            <p n="5">5. That no Practice of holy and good Men is ſufficient to warrant my Practiſing after them, or ought to ſatisfie my Conſcience.</p>
+            <p>Theſe things ſuppoſed, (and it were eaſie to prove them, were it not already done) I proceed to the mat<g ref="char:EOLhyphen"/>ter under Conſideration, and to wave a tedious Diſcourſe, and omit many things that might here be ſaid, I ſhall en<g ref="char:EOLhyphen"/>deavour to reduce it to a Point in which the matter will be obvious.</p>
+            <p>Let it then be conſidered,</p>
+            <p n="1">1. That in or about Swearing before Civil Authority, there are two things which muſt be diſtinctly conſidered. 1. The Matter about which it is converſant; and that is a Teſtimony, whether Aſſertory or Promiſſory: There is ſomething that a Man ſwears to, and this out of doubt belongs to the ſecond Table of the Moral Law, and the Ninth Commandment, and is no part of Worſhip, but a thing meerly Civil. 2. The Confirmation of this Teſtimony by the Oath, and this none that I know of ever queſtioned but that it belongs to Wor<g ref="char:EOLhyphen"/>ſhip, and is generally referted to the firſt Table, and the third Command; (though conſidered as a part of Natural Wor<g ref="char:EOLhyphen"/>ſhip, it is alſo to be referred to the firſt Command) it being an Invocation of God, a ſolemn Appeal to him, and (at leaſt) an implicit Imprecation againſt our ſelves, if we ſpeak falſly; and therefore calls for holy fear and reverence of him whoſe Name is thus called upon.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:38381:5"/>
+               <!-- PDF PAGE 17 -->
+2. That to an Oath ſo given there is a double reſpect to be had. 1. To the uſe of it, which is Civil; it being appoint<g ref="char:EOLhyphen"/>ed for the putting of an end to Controverſies between Men, for the confirmation of Truth, and obligation of Men moſt firmly unto fidelity in all the truſt that is repoſed in them, ſo far as humane Prudence can reach. 2. To the Form of it, and that is purely Religious, becauſe in Swearing I do after the moſt ſolemn manner addreſs my ſelf to God, who is the ſearcher of Hearts, and knows if I lye or diſſemble; and call him to witneſs upon my Soul: Yea, ſo eſſential a piece of Re<g ref="char:EOLhyphen"/>ligion is Swearing, that it is in Scripture Metonymically put for all Religion, <hi>Pſal.</hi> 63.11. <hi>Iſa.</hi> 19.18. It is indeed a ſo<g ref="char:EOLhyphen"/>lemn Prayer, and ſo an act of Worſhip.</p>
+            <p n="3">3. That Ceremonies which are or may be uſed in Swear<g ref="char:EOLhyphen"/>ing come under a twofold conſideration. 1. Such as may be meerly Civil, <hi>viz.</hi> Such as are the Notices by which it may be known who is the Perſon ſwearing; and may be expreſſive of his conſent to, and being engaged in the Oath which is adminiſtred; concerning which Ceremonies I make no doubt but that whatſoever Civil Authority ſhall enjoyn to be an Indication of the Perſon, and a witneſs of his vo<g ref="char:EOLhyphen"/>luntary accepting the Oath, and acknowledging himſelf un<g ref="char:EOLhyphen"/>der the Obligation of it, may be lawfully ſubmitted to, and needs not to be diſputed by him who is called to ſwear, always provided there be no Profaneneſs in the Caſe. 2. Such as are Religious, <hi>viz.</hi> that are uſed to ſtrengthen or confirm the Oath, to add more ſolemnity to it, to oblige the Perſon that takes it unto greater care and caution, or to ſtrengthen the credit of Teſtimony the more: Concerning all which it muſt be aſſerted, that they are undoubted Appendages to Re<g ref="char:EOLhyphen"/>ligious Worſhip, and muſt therefore be tryed by the Propoſi<g ref="char:EOLhyphen"/>tions laid down, the reſpect being not Civil but purely Reli<g ref="char:EOLhyphen"/>gious; for whatſoever is uſed as a religious mean, to make me more ſerious in a Religious action, muſt needs be ſo, and hence it muſt be either Natural or Inſtituted.</p>
+            <p n="4">
+               <pb n="5" facs="tcp:38381:5"/>
+               <!-- PDF PAGE 17 -->
+4. That an Oath being a ſolemn Prayer and Appeal, it hence ought to be made to God alone: That Men are to ſwear by God only, is a Truth ſo fully clear in Scripture, that no Man that is a Chriſtian can call it in queſtion; if there<g ref="char:EOLhyphen"/>fore in Swearing I appeal to any but God, I am guilty of falſe Worſhip, <hi>Deut.</hi> 6.13. <hi>Jer.</hi> 5.7. and great reaſon, for there is none elſe can detect us, and puniſh us if we be found forſworn.</p>
+            <p n="5">5. That whatſoever is ſworn by, is not a meer Medium, but an Object of Worſhip: If I appeal to the God who is the Author of this Bible, I then make it a Ceremony, and am on<g ref="char:EOLhyphen"/>ly queſtionable about the lawfulneſs of uſing ſuch a ſtated Me<g ref="char:EOLhyphen"/>dium; but if I appeal to God and the Bible, then I make it a divine Object of my Adoration: Hence Swearing by any thing is underſtood in Scripture for making the thing we ſwear by our Object, <hi>Jer.</hi> 5 7, <hi>Matth.</hi> 5.34, &amp;c. and then the Queſti<g ref="char:EOLhyphen"/>on is, Whether this be the true God, or an Idol?</p>
+            <p>Upon theſe Premiſes there will now need nothing more to be enquired after, but only, Whether the laying the Hand upon the Book in Swearing may be accounted a Civil ſign meer<g ref="char:EOLhyphen"/>ly, and ſuch as may be uſed by Men? or, Whether it be not certainly a part of religious Worſhip, according to Law, Uſage and Cuſtom? And if it appears to be the latter, no Non<g ref="char:EOLhyphen"/>conformiſt can ever conſent to it, 'till firſt he depart from his own Principles.</p>
+            <p>To prove therefore that it is and muſt be ſo, is ſufficient to my preſent purpoſe, for the confirmation whereof, I offer theſe Arguments.</p>
+            <p n="1">1. It is ſo by the true, proper, and unqueſtionable intent of the Law by which it is required: And hence it muſt needs be ſo interpretatively of every one that uſeth it in complyance with that Law. It is a Truth beyond ſuſpicion, that a Man's actions are not interpretable, according to his own private ſenſe and pretended meaning, but according to the common uſage in which ſuch actions are taken, and for Men to pretend to another meaning, is practical Equivocation. The Primitive Chriſtians knew, that to caſt Frankincenſe into the Fire upon an Idol's Altar, would be Interpretative ſacrificing to that
+<pb n="6" facs="tcp:38381:6"/>
+               <!-- PDF PAGE 18 -->Idol, let their reſerved meaning be what it would, and there<g ref="char:EOLhyphen"/>fore they refuſed to do it. He therefore that complies with any thing required in the Law, is truly reputed by all Men to comply with the Law in the true and plain meaning of it. Now that this is the indiſputable ſence of the Law, is evident; for what elſe is Swearing by the Book but ſuch? If we conſult the Statute-Law, poſſibly there is no clearer men<g ref="char:EOLhyphen"/>tion of this appeal there, than what is in the Oath of Supre<g ref="char:EOLhyphen"/>macy, which in ſo many words joyns the Invocation of God, and ſwearing by the Contents of the Book. If we look to the Common Law, let all old Preſidents ſpeak, which tell us that it is done <hi>Per ſacra Dei Evangelia,</hi> by the Holy Goſpels; and this cannot intend only a ſignification of the Perſons ſwear<g ref="char:EOLhyphen"/>ing, and their conſent, but expreſly declares an appeal to the Book, which was never appointed by God to be a Ceremony, much leſs an Object of my Appeal. And if we look to the Canon Law, whence it borrows its Original, none need to be ignorant that it was intended to put a religious reſpect on the Book, by the Authors of it, whoſe very Principles plead the juſtification of a Religious Worſhip due to ſome Creatures.</p>
+            <p n="2">2. It is ſo by the Confeſſion of thoſe that have uſed it, and plead for it: What elſe is intended, when in their Self-Juſtifi<g ref="char:EOLhyphen"/>cation, they tell us it is done to put the more Solemnity upon the Oath; and that their meaning is, that they do hereby ſig<g ref="char:EOLhyphen"/>nificantly renounce all the benefits promiſed to Chriſtians in this Book, and invoke the Curſes of it upon themſelves, if they lye? and this muſt of neceſſity be more than the bare Indigitation of the Perſon, and nothing leſs than a Religious Application; which hath not the Authority of God for it, being neither a Natu<g ref="char:EOLhyphen"/>ral, nor Inſtituted Medium.</p>
+            <p n="3">3. It is ſo by the very thing that is choſen and appointed to be made uſe of, <hi>viz.</hi> the Holy Bible, or Goſpels: For, were it only to ſignifie the Perſon and his Conſent, why might not any other thing do as well? Yea, why might not lift<g ref="char:EOLhyphen"/>ing up the Hand be better approved, which is in Civil Law, uſed as a Civil Sign, by which a Man is called to ſignifie that he is the Perſon arraigned, and conſents to his being
+<pb n="7" facs="tcp:38381:6"/>
+               <!-- PDF PAGE 18 -->tried by the Authority of the Court where he ſtands to be Judged; and is alſo a natural Sign accompanying of Prayer, or an outward ſignification of Mens appealing to God in Prayer? This Book therefore muſt needs have bin made choice of with a Religious reſpect.</p>
+            <p n="4">4. It can be no Salvo to Mens Conſciences, for this or that particular Judge, or any Men in ſubordinate Authority, to ſay, That they intend nothing elſe by it, when they impoſe it, but only the Notification of the Perſon, and ſignifying that he doth now take the Oath: for the Sence of the Law is always one and the ſame: And though it muſt be grant<g ref="char:EOLhyphen"/>ed neceſſary that Judges are, in caſe of difficulty and du<g ref="char:EOLhyphen"/>biouſneſs, to interpret the meaning of the Law, to Men concerned to Act according to it; yet if they ſhould give a ſence evidently other than the Law will bear, it can hard<g ref="char:EOLhyphen"/>ly be thought obliging; to be ſure, where the ſence of the Law is clear and plain, their interpreting it otherwiſe can<g ref="char:EOLhyphen"/>not ſatisfie one that knows it is not the meaning: For if ſo, what force can there be in a Law, or what ſafety can the Subject pretend to himſelf in meaſuring his Actions by it, becauſe that which is the ſence of it to day, may be re<g ref="char:EOLhyphen"/>pugnant to it to morrow.</p>
+            <p n="5">5. It doth no whit mend the matter, that of late, thoſe words <hi>[and the Contents of this Book]</hi> are omitted in the giving or adminiſtring of the Oath, it being only a Snare laid before Men, and no real favour to them, as not in Truth affording any abatement upon the Conſciences of ſuch as are judicious; and that is, becauſe the ſame thing is intended in the Law, and is every whit as much ſignified by the Act of Laying on the Hand, it being the ſence of the Law, in Obedience whereunto it is done: And Actions do ſpeak as forcibly as Words. Except therefore the Law it ſelf could ceaſe, or loſe its ſence, the omiſſion of a word explicatory mitigates it not; becauſe all that know the meaning of the Law, know what the Action ſignifies accord<g ref="char:EOLhyphen"/>ing to it.</p>
+            <p n="6">
+               <pb n="8" facs="tcp:38381:7"/>
+               <!-- PDF PAGE 19 -->
+6. Hence, in the Conſciences of all ſaner, ſerious, and conſidering Men, he that lays his Hand, upon the Book, whatever his reſerved meaning to himſelf be, is neceſſarily un<g ref="char:EOLhyphen"/>der ſuch an Interpretation as this: and it thereby become a matter of ſcandal to ſuch as count it unlawful ſo to ſwear; and though he Swears with never ſo many ſecret reſerves to himſelf, he cannot poſſibly avoid this Cenſure.</p>
+            <p n="7">7. It is alſo to be obſerved, That whereas the Nature of Swearing is principally contained in the Solemnity of the Appeal which men make, there is no other ſolemn Caution and Religious obligation, laid upon Men to make them afraid of Perjury, in the accuſtomed way of adminiſtring an Oath, but only in the act of Laying the Hand on the Book, and that one word, <hi>So help you God;</hi> which calls for a ſerious Obſervation, and ſpeaks the deſign of the Ceremony.</p>
+            <p n="8">8. Beſides, it makes the Concluſion I have aſſerted, fur<g ref="char:EOLhyphen"/>ther evident, if we conſider that ſome Men ſay, That no Man can be legally indicted for Perjury, except he have Sworn upon the Book; which if legally true, tells us, that the Law makes it Eſſential to the Oath it ſelf, and a part of the Re<g ref="char:EOLhyphen"/>ligious Act of Swearing.</p>
+            <p n="9">9. He that invokes ſuch a thing as his Helper in his Pray<g ref="char:EOLhyphen"/>er, doth certainly make it of the Object which he prays unto: And he who lays his Hand on the Book (whether he do it intentionally or no) doth it interpretatively: And whe<g ref="char:EOLhyphen"/>ther this be not to make it more than a meer Ceremony, and greaten the blame of him who doth ſo ſwear, let any judicious Men determine.</p>
+            <p>Much more might be ſaid concerning this Subject; but this may help ſufficiently to ſettle the Judgments, and ſatisfie the Conſciences of any that are Scrupulous; which is my far<g ref="char:EOLhyphen"/>theſt aim in this Script; as being not deſirous to offer any Provocation to one or other; but only ſtudious to diſcharge a Moral Duty lying upon me, to ſatisfie (as far as I may) the Conſciences of them that ask it of me, in ſuch matters as properly and immediately concern God and Religion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
